@@ -1,0 +1,1 @@
+This repository serves as a collection of small to medium-sized React projects created with the sole purpose of improving my proficiency in React.js. Each app is designed to tackle different aspects of React development, ranging from state management to routing and beyond.
