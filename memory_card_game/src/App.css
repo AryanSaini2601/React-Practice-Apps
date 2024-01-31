@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.App button{
+  background: transparent;
+  color: white;
+  width: 120px;
+  height: 40px;
+  font-size: 1rem;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+.card-grid{
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
